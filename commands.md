@@ -2,7 +2,7 @@
 title: Helper Commands
 description: Command snippets
 published: true
-date: 2021-10-26T20:26:14.277Z
+date: 2021-10-26T20:26:36.304Z
 tags: snippets
 editor: markdown
 dateCreated: 2021-10-26T20:26:14.277Z
